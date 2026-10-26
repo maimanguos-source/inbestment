@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://investment.us.ci/sitemap.xml
-
